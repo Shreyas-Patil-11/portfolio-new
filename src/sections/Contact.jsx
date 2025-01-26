@@ -141,7 +141,7 @@ const Contact = () => {
               <img 
                 src="/assets/arrow-up.png" 
                 alt="arrow-up" 
-                className="field-btn_arrow" />
+                className="field-btn_arrow invert-100" />
             </button>
           </form>
         </div>

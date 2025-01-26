@@ -147,8 +147,6 @@ export const myProjects = [
     logo: '/assets/project-logo-stylesaavy.png',
     logoStyle: {
       backgroundColor: '#13202F',
-      // background:
-      //   'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
       border: '0.2px solid rgba(208, 213, 221, 1)',
       boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
     },
@@ -186,7 +184,8 @@ export const myProjects = [
     logo: '/assets/project-logo-workout.png',
     logoStyle: {
       backgroundColor: '#0E1F38',
-      border: '0.2px solid #0E2D58',
+      // border: '0.2px solid #0E2D58',
+      border: '0.2px solid rgba(208, 213, 221, 1)',
       boxShadow: '0px 0px 60px 0px #2F67B64D',
     },
     spotlight: '/assets/spotlight4.png',
@@ -208,43 +207,6 @@ export const myProjects = [
       },
     ],
   },
-  // {
-  //   title: 'Imaginify - AI Photo Manipulation App',
-  //   desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
-  //   subdesc:
-  //     'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-  //   href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
-  //   texture: '/textures/project/project5.mp4',
-  //   logo: '/assets/project-logo5.png',
-  //   logoStyle: {
-  //     backgroundColor: '#1C1A43',
-  //     border: '0.2px solid #252262',
-  //     boxShadow: '0px 0px 60px 0px #635BFF4D',
-  //   },
-  //   spotlight: '/assets/spotlight5.png',
-  //   tags: [
-  //     {
-  //       id: 1,
-  //       name: 'React.js',
-  //       path: '/assets/react.svg',
-  //     },
-  //     {
-  //       id: 2,
-  //       name: 'TailwindCSS',
-  //       path: 'assets/tailwindcss.png',
-  //     },
-  //     {
-  //       id: 3,
-  //       name: 'TypeScript',
-  //       path: '/assets/typescript.png',
-  //     },
-  //     {
-  //       id: 4,
-  //       name: 'Framer Motion',
-  //       path: '/assets/framer.png',
-  //     },
-  //   ],
-  // },
 ];
 
 
