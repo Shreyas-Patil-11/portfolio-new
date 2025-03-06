@@ -34,9 +34,9 @@ const Contact = () => {
         templeteId,
         {
           from_name: form.name,
-          to_name: 'JavaScript Mastery',
+          to_name: 'Shreyas Patil',
           from_email: form.email,
-          to_email: 'sujata@jsmastery.pro',
+          to_email: 'shreyaspatil1311@gmail.com',
           message: form.message,
         },
         recieverId,
@@ -102,7 +102,7 @@ const Contact = () => {
                 onChange={handleChange}
                 required
                 className="field-input"
-                placeholder="ex., John Doe"
+                placeholder="ex. John Doe"
               />
             </label>
 
@@ -115,7 +115,7 @@ const Contact = () => {
                 onChange={handleChange}
                 required
                 className="field-input"
-                placeholder="ex., johndoe@gmail.com"
+                placeholder="ex. johndoe@gmail.com"
               />
             </label>
 

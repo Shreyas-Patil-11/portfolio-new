@@ -1,3 +1,5 @@
+import { FaCss3Alt, FaDatabase, FaHtml5, FaJs, FaNodeJs, FaReact } from "react-icons/fa";
+
 export const navLinks = [
   {
     id: 1,
@@ -21,6 +23,46 @@ export const navLinks = [
   },
 ];
 
+export const TechStackData = [
+    { title: "React.js", 
+      img: "/assets/react.svg" 
+    },
+    { 
+      title: "Next.js", 
+      img: "/assets/next.svg" 
+    },
+    { 
+      title: "Node.js", 
+      img: "/assets/node-js.svg"
+    },
+    { title: "Express.js", 
+      img: "/assets/express.svg"
+    },
+    { 
+      title: "MongoDB", 
+      img: "/assets/mongodb.svg" 
+    },
+    { 
+      title: "MySQL", 
+      img: "/assets/mysql-logo.svg" 
+    },
+    { 
+      title: "JavaScript", 
+      img: "/assets/javascript.svg" 
+    },
+    {
+      title: 'Three.js',
+      img: '/assets/three-icon.png',
+    },
+    {
+      title: 'Framer Motion',
+      img: '/assets/framer.png',
+    },
+    {
+      title: 'Tailwind CSS',
+      img: '/assets/tailwindcss.png',
+    }
+]
 
 export const clientReviews = [
   {
@@ -84,7 +126,7 @@ export const myProjects = [
       {
         id: 2,
         name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
+        path: '/assets/tailwindcss.png',
       },
       {
         id: 3,

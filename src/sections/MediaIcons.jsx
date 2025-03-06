@@ -2,7 +2,7 @@ import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineMail } from 'react-icons/a
 
 const MediaIcons = () => {
     return (
-        <div className='fixed left-0 top-1/2 cursor-pointer bg-[#3f3f46] py-4 flex justify-center items-center flex-col gap-3 px-3 rounded-tr-lg rounded-br-lg z-50'>
+        <div className='fixed left-0 top-1/2 cursor-pointer bg-[#343131] py-4 flex justify-center items-center flex-col gap-3 px-3 rounded-tr-lg rounded-br-lg z-50'>
             <a
                 href='https://github.com/Shreyas-Patil-11'
                 target='_blank'

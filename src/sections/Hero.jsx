@@ -26,7 +26,10 @@ const Hero = () => {
       <div className="w-full mx-auto flexflex-col sm:mt-36 mt-20 c-space gap-3">
         <p className="sm:text-2xl text-xl font-medium text-white text-center font-generalsans">Hi, I am Shreyas <span className="waving-hand">👋</span></p>
 
-        <p className="text-center xl:text-5xl md:text-4xl sm:text-3xl text-3xl font-generalsans font-black !leading-normal text-gray_gradient ">Buildings Products & Brand</p>
+        {/* <p className="text-center xl:text-5xl md:text-4xl sm:text-3xl text-3xl font-generalsans font-black !leading-normal text-gray_gradient ">Buildings Products & Brand</p> */}
+        <p className="text-lg sm:text-xl text-gray-400 text-center">
+          Architecting <span className="text-holo-gold font-bold">experiences</span>, engineering <span className="text-cyber-violet font-bold">visions</span>, and pushing the <span className="text-electric-red font-bold">boundaries of digital</span>.
+        </p>
       </div>
 
       <div className="w-full h-full absolute inset-0">
@@ -61,7 +64,7 @@ const Hero = () => {
 
       <div className="absolute bottom-7 left-0 right-0 w-full z-10 c-space">
         <a href="#about" className="w-fit">
-        <Button name="Let's work together" isBeam containerClass="sm:w-fit w-full sm:min-w-96" />
+          <Button name="Let's work together" isBeam containerClass="sm:w-fit w-full sm:min-w-96" />
         </a>
       </div>
 
