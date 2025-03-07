@@ -23,114 +23,114 @@ export const navLinks = [
   },
 ];
 
-// export const TechStackData = [
-//     { title: "React.js", 
-//       img: "/assets/react.svg" 
-//     },
-//     { 
-//       title: "Next.js", 
-//       img: "/assets/next.svg" 
-//     },
-//     { 
-//       title: "Node.js", 
-//       img: "/assets/node-js.svg"
-//     },
-//     { title: "Express.js", 
-//       img: "/assets/express.svg"
-//     },
-//     { 
-//       title: "MongoDB", 
-//       img: "/assets/mongodb.svg" 
-//     },
-//     { 
-//       title: "MySQL", 
-//       img: "/assets/mysql-logo.svg" 
-//     },
-//     { 
-//       title: "JavaScript", 
-//       img: "/assets/javascript.svg" 
-//     },
-//     {
-//       title: 'Three.js',
-//       img: '/assets/three-icon.png',
-//     },
-//     {
-//       title: 'Framer Motion',
-//       img: '/assets/framer.png',
-//     },
-//     {
-//       title: 'Tailwind CSS',
-//       img: '/assets/tailwindcss.png',
-//     }
-// ]
-
 export const TechStackData = [
-  {
-    name: "HTML 5",
-    icon: "/assets/html.png",
-  },
-  {
-    name: "CSS 3",
-    icon: "/assets/css.png",
-  },
-  {
-    name: "JavaScript",
-    icon: "/assets/javascript.png",
-  },
-  {
-    name: "TypeScript",
-    icon: "/assets/typescript.png",
-  },
-  {
-    name: "React JS",
-    icon: "/assets/reactjs.png",
-  },
-  {
-    name: "Next JS",
-    icon: "/assets/nextjs.svg",
-  },
-  {
-    name: "Node JS",
-    icon: "/assets/nodejs.png",
-  },
-  { 
-    name: "Express.js", 
-    icon: "/assets/express.svg"
-  },
-  // {
-  //   name: "Redux Toolkit",
-  //   icon: "/assets/redux.png",
-  // },
-  {
-    name: "Tailwind CSS",
-    icon: "/assets/tailwind.png",
-  },
-  
-  {
-    name: "MongoDB",
-    icon: "/assets/mongodb.png",
-  },
-  {
-    name: "MySQL",
-    icon: "/assets/mysql.png",
-  },
-  {
-    name: "Git",
-    icon: "/assets/git.png",
-  },
-  // {
-  //   name: 'Three.js',
-  //   icon: '/assets/three-icon.png',
-  // },
-  {
-    name: "C++",
-    icon: "/assets/cpp.png",
-  },
-  // {
-  //   name: 'Framer Motion',
-  //   icon: '/assets/framer.png',
-  // },
+    { title: "React.js", 
+      img: "/assets/react.svg" 
+    },
+    { 
+      title: "Next.js", 
+      img: "/assets/next.svg" 
+    },
+    { 
+      title: "Node.js", 
+      img: "/assets/node-js.svg"
+    },
+    { title: "Express.js", 
+      img: "/assets/express.svg"
+    },
+    { 
+      title: "MongoDB", 
+      img: "/assets/mongodb.svg" 
+    },
+    { 
+      title: "MySQL", 
+      img: "/assets/mysql-logo.svg" 
+    },
+    { 
+      title: "JavaScript", 
+      img: "/assets/javascript.svg" 
+    },
+    {
+      title: 'Three.js',
+      img: '/assets/three-icon.png',
+    },
+    {
+      title: 'Framer Motion',
+      img: '/assets/framer.png',
+    },
+    {
+      title: 'Tailwind CSS',
+      img: '/assets/tailwindcss.png',
+    }
 ]
+
+// export const TechStackData = [
+//   {
+//     name: "HTML 5",
+//     icon: "/assets/html.png",
+//   },
+//   {
+//     name: "CSS 3",
+//     icon: "/assets/css.png",
+//   },
+//   {
+//     name: "JavaScript",
+//     icon: "/assets/javascript.png",
+//   },
+//   {
+//     name: "TypeScript",
+//     icon: "/assets/typescript.png",
+//   },
+//   {
+//     name: "React JS",
+//     icon: "/assets/reactjs.png",
+//   },
+//   {
+//     name: "Next JS",
+//     icon: "/assets/nextjs.svg",
+//   },
+//   {
+//     name: "Node JS",
+//     icon: "/assets/nodejs.png",
+//   },
+//   { 
+//     name: "Express.js", 
+//     icon: "/assets/express.svg"
+//   },
+//   // {
+//   //   name: "Redux Toolkit",
+//   //   icon: "/assets/redux.png",
+//   // },
+//   {
+//     name: "Tailwind CSS",
+//     icon: "/assets/tailwind.png",
+//   },
+  
+//   {
+//     name: "MongoDB",
+//     icon: "/assets/mongodb.png",
+//   },
+//   {
+//     name: "MySQL",
+//     icon: "/assets/mysql.png",
+//   },
+//   {
+//     name: "Git",
+//     icon: "/assets/git.png",
+//   },
+//   // {
+//   //   name: 'Three.js',
+//   //   icon: '/assets/three-icon.png',
+//   // },
+//   {
+//     name: "C++",
+//     icon: "/assets/cpp.png",
+//   },
+//   // {
+//   //   name: 'Framer Motion',
+//   //   icon: '/assets/framer.png',
+//   // },
+// ]
 
 
 export const clientReviews = [
