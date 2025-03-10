@@ -198,11 +198,16 @@ export const myProjects = [
       },
       {
         id: 3,
-        name: "NPM",
-        path: '/assets/npm.svg',
+        name: 'Node.js',
+        path: 'assets/node-js.svg',
       },
       {
         id: 4,
+        name: 'Express.js',
+        path: '/assets/express.svg',
+      },
+      {
+        id: 5,
         name: 'MongoDB',
         path: '/assets/mongodb.svg',
       },
