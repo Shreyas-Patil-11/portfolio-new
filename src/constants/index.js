@@ -172,6 +172,43 @@ export const clientReviews = [
 
 export const myProjects = [
   {
+    title: "FaceAuthJS - Face-Based Profile Authentication",
+    desc: "A secure and efficient face authentication library using face-api.js for seamless user verification in web applications.",
+    subdesc: "Leverages deep learning-powered face recognition to enable passwordless authentication with encrypted face descriptors stored securely in MongoDB.",
+    href: "https://face-authjs.vercel.app/",
+    texture: "/textures/project/project5.mp4",
+    logo: "/assets/faceAuthLogo.jpg",
+    logoStyle: {
+        backgroundColor: "#1E1E2E",
+        border: "0.2px solid rgba(100, 149, 237, 1)", 
+        boxShadow: "0px 0px 60px 0px #6495ED4D"
+    },
+    spotlight: '/assets/spotlight2.png',
+    tags: [
+      
+      {
+        id: 1,
+        name: 'React.js',
+        path: '/assets/react.svg',
+      },
+      {
+        id: 2,
+        name: 'TailwindCSS',
+        path: '/assets/tailwindcss.png',
+      },
+      {
+        id: 3,
+        name: "NPM",
+        path: '/assets/npm.svg',
+      },
+      {
+        id: 4,
+        name: 'MongoDB',
+        path: '/assets/mongodb.svg',
+      },
+    ],
+  },
+  {
     title: 'VirtualInterviewPrep - AI-Based Mock Interview Platform',
     desc: 'An innovative platform designed for conducting mock interviews with advanced AI-driven features to prepare users for their dream roles.',
     subdesc:
